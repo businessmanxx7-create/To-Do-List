@@ -27,7 +27,7 @@ function addTask() {
 
     li.appendChild(span);
     li.appendChild(deleteBtn); // this is the new comment im adding 
-    list.appendChild(li);
+    list.appendChild(li); // one more comment 
 
     input.value = "";
 
