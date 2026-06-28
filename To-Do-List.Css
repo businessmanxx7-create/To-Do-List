@@ -1,7 +1,7 @@
-* {
+* { 
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: border-box;       /** hmm **/
     font-family: Arial;
 }
 
@@ -74,7 +74,7 @@ ul {
 
     margin-top: 20px;
 
-}
+}  
 
 li{
 
