@@ -26,8 +26,7 @@ function addTask() {
     });
 
     li.appendChild(span);
-    li.appendChild(deleteBtn);
-
+    li.appendChild(deleteBtn); // this is the new comment im adding 
     list.appendChild(li);
 
     input.value = "";
